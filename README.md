@@ -4,6 +4,8 @@
 https://nuwe.io/
 -----------
 
+<img src='https://incompliancemag.com/wp-content/uploads/2019/05/1906_NASAColumbia.jpg'>
+
 ## ✨ BACKGROUND ✨
 NASA has designed a new type of sensor that, from measuring the electromagnetic variation in a field, it can estimate the velocity of one particle relative to the velocity of the other particle. In this challenge, the data obtained from this sensor will be used to train a predictive model to predict that relative velocity.
 
